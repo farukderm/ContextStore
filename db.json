@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "img": "https://example.com/img/wireless-headphones.jpg",
+      "price": 120.99
+    },
+    {
+      "id": 2,
+      "title": "Bluetooth Speaker",
+      "img": "https://example.com/img/bluetooth-speaker.jpg",
+      "price": 89.49
+    },
+    {
+      "id": 3,
+      "title": "Smart Watch",
+      "img": "https://example.com/img/smart-watch.jpg",
+      "price": 199.99
+    },
+    {
+      "id": 4,
+      "title": "Gaming Mouse",
+      "img": "https://example.com/img/gaming-mouse.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 5,
+      "title": "Mechanical Keyboard",
+      "img": "https://example.com/img/mechanical-keyboard.jpg",
+      "price": 150.0
+    }
+  ]
+}
