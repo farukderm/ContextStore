@@ -16,3 +16,7 @@ Context-Store, **React** ile geliştirilmiş bir e-ticaret sitesidir. Bu projede
 - **Bootstrap:** Güzel ve responsive bir tasarım için.
 - **React-icons:** Kullanıcı arayüzünü zenginleştirmek için ikonlar.
 - **React Router:** Sayfalar arasında gezinme sağlamak için.
+## Ekran Görüntüsü
+
+https://github.com/user-attachments/assets/eb83b2e2-7921-4444-a73f-7daa61b198ce
+
